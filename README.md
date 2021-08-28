@@ -12,14 +12,4 @@ style.css
 
 scritp.js
 
-Fazendo mais uma alteração para usar o git diff(para ver as modificações feitas)
-
-Depois mais uma linha e modificação
-
-Agora mais agumas alteraçoẽs \0/
-
-Alterei file script.js
-
-Parece qua agora vai!!! 
-
 Vlw Rozi !!!
