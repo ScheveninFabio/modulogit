@@ -5,6 +5,7 @@ My fist commit in GIT \0/ ;-)
 Adicionando arquivos:
 
 index.html
+
 style.css
 
 #28/08/2021
@@ -18,8 +19,6 @@ Depois mais uma linha e modificação
 Agora mais agumas alteraçoẽs \0/
 
 Alterei file script.js
-
-Tá foda de fazer funcionar isso! 80
 
 Parece qua agora vai!!! 
 
