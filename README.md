@@ -19,6 +19,8 @@ Agora mais agumas alteraçoẽs \0/
 
 Alterei file script.js
 
-Tá foda de fazser funcionar isso! 80
+Tá foda de fazer funcionar isso! 80
 
 Parece qua agora vai!!! 
+
+Vlw Rozi !!!
