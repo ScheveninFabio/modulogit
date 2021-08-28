@@ -7,3 +7,4 @@ style.css
 scritp.js
 Vlw Rozi !!!
 Excluidos arquivos. 
+Adicionado .gitignore
