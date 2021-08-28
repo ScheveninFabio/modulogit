@@ -20,3 +20,5 @@ Agora mais agumas alteraçoẽs \0/
 Alterei file script.js
 
 Tá foda de fazser funcionar isso! 80
+
+Parece qua agora vai!!! 
