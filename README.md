@@ -9,3 +9,4 @@ Vlw Rozi !!!
 Excluidos arquivos. 
 Adicionado .gitignore
 Adicionado mais uma página
+Modificado pag0
