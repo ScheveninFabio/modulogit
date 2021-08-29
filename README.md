@@ -1,3 +1,4 @@
+Alterado README ;-)
 My fist commit in GIT \0/ ;-)
 #27/08/2021
 Adicionando arquivos:
