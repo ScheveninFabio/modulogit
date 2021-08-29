@@ -11,3 +11,4 @@ Excluidos arquivos.
 Adicionado .gitignore
 Adicionado mais uma página
 Modificado pag0
+Mais uma alteração 1227
